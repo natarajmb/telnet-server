@@ -1,4 +1,4 @@
-package com.cisco.telnet.command.impl;
+package com.cognitivenode.telnet.command.impl;
 
 import java.io.File;
 

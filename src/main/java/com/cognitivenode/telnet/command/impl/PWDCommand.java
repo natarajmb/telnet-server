@@ -1,11 +1,11 @@
-package com.cisco.telnet.command.impl;
+package com.cognitivenode.telnet.command.impl;
 
 import java.io.IOException;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.cisco.telnet.command.AbstractCommand;
+import com.cognitivenode.telnet.command.AbstractCommand;
 
 public class PWDCommand extends AbstractCommand {
 

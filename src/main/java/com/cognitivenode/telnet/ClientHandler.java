@@ -1,4 +1,4 @@
-package com.cisco.telnet;
+package com.cognitivenode.telnet;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
@@ -11,8 +11,8 @@ import java.util.ArrayList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.cisco.telnet.command.AbstractCommand;
-import com.cisco.telnet.command.CommandFactory;
+import com.cognitivenode.telnet.command.AbstractCommand;
+import com.cognitivenode.telnet.command.CommandFactory;
 
 public class ClientHandler implements Runnable {
 

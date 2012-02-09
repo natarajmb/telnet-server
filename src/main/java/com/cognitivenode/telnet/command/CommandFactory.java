@@ -1,4 +1,4 @@
-package com.cisco.telnet.command;
+package com.cognitivenode.telnet.command;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

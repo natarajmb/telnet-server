@@ -1,4 +1,4 @@
-package com.cisco.telnet.command.impl;
+package com.cognitivenode.telnet.command.impl;
 
 import java.io.File;
 import java.io.FilenameFilter;
@@ -8,7 +8,7 @@ import java.util.Arrays;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.cisco.telnet.command.AbstractCommand;
+import com.cognitivenode.telnet.command.AbstractCommand;
 
 public class LSCommand extends AbstractCommand {
 

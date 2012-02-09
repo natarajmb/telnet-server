@@ -1,4 +1,4 @@
-package com.cisco.telnet;
+package com.cognitivenode.telnet;
 
 import java.io.IOException;
 import java.net.ServerSocket;
